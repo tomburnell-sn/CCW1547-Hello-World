@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_hello_world.user" name="x_snc_hello_world.user">e878c59909a440107f4447a7cb10839e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 09:58:46</sys_created_on>
+        <sys_id>a078c59909a440107f4447a7cb1083a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e878c59909a440107f4447a7cb10839e</sys_name>
+        <sys_package display_value="Hello World" source="x_snc_hello_world">bca609d9096440107f4447a7cb108351</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">bca609d9096440107f4447a7cb108351</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a078c59909a440107f4447a7cb1083a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 09:58:46</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
